@@ -1,1 +1,8 @@
 
+OPENROUTER_API_KEY=sk-or-v1-abcd
+APP_NAME=VoiceGPT Assistant
+SITE_URL=http://3.110.130.40:5173
+
+OPENROUTER_CHAT_MODEL=openai/gpt-4o-mini
+OPENROUTER_STT_MODEL=openai/gpt-4o-mini-transcribe
+OPENROUTER_TTS_MODEL=openai/gpt-audio-mini
