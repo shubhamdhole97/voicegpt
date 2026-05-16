@@ -1,0 +1,293 @@
+Question: क्या भारत का इतिहास
+Answer: भारत का इतिहास बहुत पुराना और विविध है, जिसमें प्राचीन सभ्यताएँ, साम्राज्य, और स्वतंत्रता संग्राम शामिल हैं।
+PCM audio size: 1048800 bytes
+INFO:     43.246.157.52:60984 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60985 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60986 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60987 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Bharat Hong Kong.
+Answer: Are you asking about the relationship between Bharat, or India, and Hong Kong?
+PCM audio size: 1144800 bytes
+INFO:     43.246.157.52:60988 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60989 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60990 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60991 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60992 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60993 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60994 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60995 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60996 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60997 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60998 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:60999 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61000 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61001 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+^CINFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13662]
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$ python -m uvicorn main:app --host 0.0.0.0 --port 8000
+INFO:     Started server process [13746]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ESP32 audio received: 64044 bytes
+Question: تشمله.
+Answer: ما الذي تريد معرفته عن "تشمله"؟
+PCM audio size: 626400 bytes
+INFO:     43.246.157.52:61910 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+^CINFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13746]
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$ python -m uvicorn main:app --host 0.0.0.0 --port 8000
+INFO:     Started server process [13767]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61661 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 470400 bytes
+INFO:     43.246.157.52:61662 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61663 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 372000 bytes
+INFO:     43.246.157.52:61664 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61665 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61666 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: भारत का इतिहास
+Answer: भारत का इतिहास बहुत पुराना और विविध है, जिसमें प्राचीन सभ्यताएं, राजवंश, उपनिवेशीकरण और स्वतंत्रता संग्राम शामिल हैं।
+PCM audio size: 981600 bytes
+INFO:     43.246.157.52:61667 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61668 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61669 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: India
+Answer: India is a country in South Asia known for its diverse culture and history.
+PCM audio size: 825600 bytes
+INFO:     43.246.157.52:61670 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+Question: India is my country.
+Answer: That's great! India has a rich culture and history.
+PCM audio size: 748800 bytes
+INFO:     43.246.157.52:61671 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61672 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61673 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61674 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61675 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61676 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61677 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 216000 bytes
+INFO:     43.246.157.52:61678 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61679 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: India
+Answer: What would you like to know about India?
+PCM audio size: 616800 bytes
+INFO:     43.246.157.52:61680 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61681 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: अदाका प्रधानमंत्री
+Answer: अदाका प्रधानमंत्री शेर बहादुर देउबा हैं।
+PCM audio size: 559200 bytes
+INFO:     43.246.157.52:61682 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61683 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 396000 bytes
+INFO:     43.246.157.52:61684 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+Question: انڈین کلچر
+Answer: انڈین کلچر بہت متنوع ہے، جس میں مختلف زبانیں، مذہب، روایات اور کھانے شامل ہیں۔
+PCM audio size: 799200 bytes
+INFO:     43.246.157.52:61685 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61686 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61687 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61688 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61689 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61690 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61691 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+^CINFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13767]
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$ python -m uvicorn main:app --host 0.0.0.0 --port 8000
+INFO:     Started server process [13789]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61692 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61693 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61694 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61695 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61696 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Hello, good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 292800 bytes
+INFO:     43.246.157.52:61697 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+Question: India
+Answer: India is a country in South Asia, known for its diverse culture and rich history.
+PCM audio size: 724800 bytes
+INFO:     43.246.157.52:61698 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+Question: is the PM of India.
+Answer: The Prime Minister of India is Narendra Modi.
+PCM audio size: 549600 bytes
+INFO:     43.246.157.52:61699 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61700 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61701 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61702 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61703 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61704 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61705 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61706 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61707 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61708 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: Good morning.
+Answer: Good morning! How can I help you today?
+PCM audio size: 436800 bytes
+INFO:     43.246.157.52:61709 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61710 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61711 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61712 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61713 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: انڈیا
+Answer: انڈیا جنوبی ایشیا کا ایک بڑا ملک ہے۔
+PCM audio size: 734400 bytes
+INFO:     43.246.157.52:61714 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61715 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61716 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61717 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61718 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61719 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61720 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61721 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61722 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61723 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61724 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61725 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61726 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61727 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+Question: ابھی لگ بھگ ہو گیا ہو گیا ہے یہ سب
+Answer: کیا آپ مزید وضاحت کر سکتے ہیں؟
+PCM audio size: 420000 bytes
+INFO:     43.246.157.52:61728 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+^CINFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [13789]
+
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$
+(venv) ubuntu@ip-172-31-35-163:~/voicegpt-openrouter-starter/backend$ python -m uvicorn main:app --host 0.0.0.0 --port 8000
+INFO:     Started server process [13854]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ESP32 audio received: 64044 bytes
+Question: 這首歌
+Answer: 你想了解哪首歌呢？
+PCM audio size: 420000 bytes
+INFO:     43.246.157.52:61734 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+Question: 人床
+Answer: 人床是指供人休息和睡觉的床。
+PCM audio size: 794400 bytes
+INFO:     43.246.157.52:61735 - "POST /api/esp32/voice-chat HTTP/1.1" 200 OK
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61736 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61737 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61738 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61739 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:61740 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:51013 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
+ESP32 audio received: 64044 bytes
+INFO:     43.246.157.52:51014 - "POST /api/esp32/voice-chat HTTP/1.1" 400 Bad Request
